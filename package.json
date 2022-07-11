@@ -1,0 +1,32 @@
+{
+  "name": "twilio-sms",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000w\u0000i\u0000l\u0000i\u0000o\u0000-\u0000s\u0000m\u0000s\u0000\r\u0000 \u0000",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanrossi/twilio-sms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanrossi/twilio-sms/issues"
+  },
+  "homepage": "https://github.com/stephanrossi/twilio-sms#readme",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^18.0.3",
+    "@types/twilio": "^3.19.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "twilio": "^3.78.0"
+  }
+}
